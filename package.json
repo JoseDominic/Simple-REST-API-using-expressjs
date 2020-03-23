@@ -1,0 +1,30 @@
+{
+  "name": "simple-rest-api-using-expressjs",
+  "version": "1.0.0",
+  "description": "REST API for JSON data",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseDominic/Simple-REST-API-using-expressjs.git"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "expressjs",
+    "nodejs"
+  ],
+  "author": "Jose Dominic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseDominic/Simple-REST-API-using-expressjs/issues"
+  },
+  "homepage": "https://github.com/JoseDominic/Simple-REST-API-using-expressjs#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.5"
+  }
+}
